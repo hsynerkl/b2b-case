@@ -2,15 +2,15 @@
 
 ### Backend
 
-cd api
-npm install
-npm run start
+-cd api
+-npm install
+-npm run start
 
 ### Frontend
 
-cd client
-npm install
-npm run dev
+-cd client
+-npm install
+-npm run dev
 
 ### Teknoloji seçimleri ve gerekçeleri
 
