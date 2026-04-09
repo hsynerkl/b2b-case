@@ -12,6 +12,8 @@
 -npm install
 -npm run dev
 
+Frontend url: http://localhost:5173
+
 ### Teknoloji seçimleri ve gerekçeleri
 
 ## React Router DOM
